@@ -1,0 +1,9 @@
+{
+    "author" : ["MzLiv"],
+    "install_msg" : "Thanks for installing!",
+    "name" : "R9StreamRole",
+    "short" : "[R9] streamers get a role when live.",
+    "description" : "Assign a configurable role to anyone who is streaming.",
+    "requirements" : [],
+    "tags": ["stream", "role", "tools", "utility"]
+}
